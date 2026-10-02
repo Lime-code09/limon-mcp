@@ -1,0 +1,10 @@
+{
+  "name": "@limoncumhuriyeti/limon-mcp",
+  "version": "1.0.0",
+  "description": "Free local micro-APIs: markdown cleaner, JSON validator, CSV-to-JSON, agent-config secret auditor.",
+  "main": "server.mjs",
+  "type": "module",
+  "bin": { "limon-mcp": "server.mjs" },
+  "scripts": { "start": "node server.mjs" },
+  "license": "MIT"
+}
