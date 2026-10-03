@@ -37,3 +37,4 @@ echo '{"jsonrpc":"2.0","id":1,"method":"tools/list"}' | node server.mjs
 ## License
 
 MIT
+PR capability test Sat Oct  3 10:35:51 +03 2026
