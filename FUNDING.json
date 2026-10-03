@@ -1,6 +1,7 @@
 {
-  "amounts": {
-    "github": ["lime"],
-    "custom": ["https://limon-x402.mkahya09.workers.dev"]
+  "drips": {
+    "ethereum": {
+      "ownedBy": "0xe09a296ed94f2e9b0738e8c811fd513f459f1322"
+    }
   }
 }
